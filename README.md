@@ -16,4 +16,4 @@
 - Project: Gradle Project
 - Language: Java 8
 - Spring Boot: 2.7.5
-- Dependencies: Spring Web, Thymeleaf, JPA, H2
+- Dependencies: Spring Web, Thymeleaf, jdbc, JPA, H2
